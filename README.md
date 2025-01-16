@@ -1,6 +1,6 @@
 ## **Description**
 
-This repository contains a Python BDD framework for automated testing of Web application. The framework is designed to provide a structured and organized approach to Page object testing, making it easy to write, execute, and manage tests with POM.
+This repository contains a Python POM framework for automated testing of Web application. The framework is designed to provide a structured and organized approach to Page object testing, making it easy to write, execute, and manage tests with POM.
 
 ## **Features**
 
